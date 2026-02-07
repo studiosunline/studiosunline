@@ -49,9 +49,9 @@ body {
 .button-container {
     display: flex;
     /* Optional: Add spacing between buttons */
-    gap: 10px; 
+    /* gap: 10px;  */
     /* Optional: Center the buttons horizontally */
-    justify-content: center; 
+    /* justify-content: center;  */
     /* Optional: Center the buttons vertically */
     align-items: center;
 }
