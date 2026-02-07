@@ -38,7 +38,7 @@ body {
   display: inline-block;
   margin-left: 0.05em;
   position: relative;
-  top: 0.25em; /* visually centers the asterisk */
+  top: 0.75em; /* visually centers the asterisk */
 }
 
 /* -------- Optional refinement -------- */
@@ -53,5 +53,5 @@ body {
     /* Optional: Center the buttons horizontally */
     /* justify-content: center;  */
     /* Optional: Center the buttons vertically */
-    align-items: center;
+    /* align-items: center; */
 }
