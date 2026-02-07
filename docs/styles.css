@@ -38,7 +38,7 @@ body {
 
 .asterisk {
   display: inline-block;
-  margin-left: 0.05em;
+  margin-left: 0.15em;
   position: relative;
   top: 0.08em; /* visually centers the asterisk */
 }
