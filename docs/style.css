@@ -1,0 +1,7 @@
+.header-container {
+    display: flex;         /* Activates flexbox layout */
+    align-items: center;   /* Vertically centers items along the cross axis */
+    height: 100px;         /* Example fixed height for the header */
+    /* Optional: for horizontal centering */
+    justify-content: center; 
+}
