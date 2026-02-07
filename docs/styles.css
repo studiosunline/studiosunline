@@ -27,9 +27,9 @@ body {
 /* Subtitle / tagline */
 .site-subtitle {
   margin-top: 0.15rem; /* minimal spacing */
-  font-size: 2rem;
+  font-size: 1.75rem;
   font-weight: 400;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.02em;
   line-height: 1.01; /* very tight */
   opacity: 0.8;
 }
