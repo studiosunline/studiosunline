@@ -26,11 +26,11 @@ body {
 
 /* Subtitle / tagline */
 .site-subtitle {
+  text-align: right;
   margin-top: 0.15rem; /* minimal spacing */
   font-size: 1rem;
   font-weight: 400;
   letter-spacing: 0.04em;
-  text-transform: uppercase;
   line-height: 1.1; /* very tight */
   opacity: 0.7;
 }
