@@ -38,7 +38,7 @@ body {
   display: inline-block;
   margin-left: 0.05em;
   position: relative;
-  top: 0.5em; /* visually centers the asterisk */
+  top: 0.25em; /* visually centers the asterisk */
 }
 
 /* -------- Optional refinement -------- */
