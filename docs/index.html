@@ -102,15 +102,8 @@
           frameborder="0">
         </iframe></div></section>
 
-    <div id="reviews"></div>
-    
-    <script>
-      fetch("reviews.html")
-        .then(res => res.text())
-        .then(html => {
-          document.getElementById("reviews").innerHTML = html;
-        });
-    </script>
+    <!-- import reviews.html using js include file -->
+    <div data-include="reviews.html"></div>
     
 </body>
 </html>
