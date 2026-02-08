@@ -102,9 +102,15 @@
           frameborder="0">
         </iframe></div></section>
 
-    <div>
-        {% include reviews.html %}
-    </div>
+    <div id="reviews"></div>
+    
+    <script>
+      fetch("reviews.html")
+        .then(res => res.text())
+        .then(html => {
+          document.getElementById("reviews").innerHTML = html;
+        });
+    </script>
     
 </body>
 </html>
