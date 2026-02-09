@@ -59,10 +59,3 @@ ul {
     /* Optional: Center the buttons vertically */
     align-items: center;
 }
-
-.iframe-wrapper iframe{
-  width: 100%;
-  aspect-ratio: 16 / 9;
-  border: none;
-  display: block;
-}
