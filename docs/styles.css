@@ -23,8 +23,8 @@ ul {
 /* --------- Plot Wrapper -------- */
 .plot-wrapper {
   width: 100%;
-  max-width: 60vw;
   aspect-ratio: 16 / 9; /* change to taste */
+  max-height: 60vh
   position: relative;
 }
 
