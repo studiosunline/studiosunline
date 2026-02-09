@@ -24,7 +24,7 @@ ul {
 .plot-wrapper {
   width: 100%;
   aspect-ratio: 16 / 9; /* change to taste */
-  max-height: 60vh
+  max-width: 60vw
   position: relative;
 }
 
